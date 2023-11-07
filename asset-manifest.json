@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/societas/static/css/main.14411d2e.css",
+    "main.js": "/societas/static/js/main.3510d5a0.js",
+    "index.html": "/societas/index.html",
+    "main.14411d2e.css.map": "/societas/static/css/main.14411d2e.css.map",
+    "main.3510d5a0.js.map": "/societas/static/js/main.3510d5a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14411d2e.css",
+    "static/js/main.3510d5a0.js"
+  ]
+}
